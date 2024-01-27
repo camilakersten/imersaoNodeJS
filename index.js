@@ -32,3 +32,4 @@ function obterEndereco(idUsuario, callback) {
             numero: 0
         })
     }, 2000)
+}
